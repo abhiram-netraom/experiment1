@@ -1,6 +1,2 @@
 This is to experiment on merge conflict.
-Another new conflict try.
-Lets go.
-Another one.
-Lets go.
-Another merge conflict try.
+
